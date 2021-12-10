@@ -7,8 +7,8 @@ import cv2
 import imutils
 import numpy as np
 import pytesseract
-import keras 
-import tensorflow 
+# import keras 
+# import tensorflow 
 
 # Create flask app
 flask_app = Flask(__name__)
